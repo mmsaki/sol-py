@@ -1,5 +1,17 @@
 # Solana RPC
 
+Install the following packages.
+
+- [Solanapy](https://github.com/michaelhly/solana-py)
+
+`pip install solana`
+
+- [Solders](https://github.com/kevinheavey/solders)
+
+`pip intsall solders`
+
+# Local validator rpc example
+ 
 For local developement run `solana-test-validator`
 
 ```python
